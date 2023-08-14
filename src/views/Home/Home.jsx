@@ -7,6 +7,7 @@ import ProductsCard from '../../components/ProductsCard/ProductsCard';
 
 const Home = ({data}) => {
   console.log(data);
+  console.log("testando branch home")
   return (
     <div className='home'>
       <HeaderMenu/>
